@@ -1,0 +1,1 @@
+const t={key:"v-2bdad83e",path:"/doc/typedef/ButtonOptions.html",title:"ButtonOptions",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647894816e3},filePathRelative:"doc/typedef/ButtonOptions.md"};export{t as data};

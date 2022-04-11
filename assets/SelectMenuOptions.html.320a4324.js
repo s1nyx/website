@@ -1,0 +1,1 @@
+const e={key:"v-752b3daa",path:"/doc/typedef/SelectMenuOptions.html",title:"SelectMenuOptions",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647894816e3},filePathRelative:"doc/typedef/SelectMenuOptions.md"};export{e as data};
